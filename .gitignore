@@ -1,1 +1,7 @@
 /segmentation/scrach.py
+venv*
+**/__pycache__
+**/build/
+**/runs/
+**/dist/
+**/*.egg-info/
